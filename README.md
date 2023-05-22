@@ -120,7 +120,10 @@
  ## 🏆 GitHub Trophies
   <div > 
  
-<img src="https://github-profile-trophy.vercel.app/?username=abhinavjoshi1798&theme=radical&no-frame=false&no-bg=true&margin-w=4" />                                 </div>  
+<img src="https://github-profile-trophy.vercel.app/?username=abhinavjoshi1798&theme=radical&no-frame=false&no-bg=true&margin-w=4" />  
+
+</div>
+![Snake animation](https://github.com/Marione-Tainara/Marione-Tainara/blob/output/github-contribution-grid-snake.svg)
 
 
 
