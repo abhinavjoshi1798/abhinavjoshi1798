@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-Hi there 👋<br>🌱 I’m currently learning React.js<br>💬 Ask me about HTML, CSS, JavaScript, React, Redux and DSA<br>📫 How to reach me: abhinavjoshi1798@gmail.com<br>📫 All My Projects: https://abhinavjoshi1798.github.io/
+Hi there 👋<br>🌱 I’m Full Stack Web Developer .<br>💬 Ask me about HTML, CSS, JavaScript, React, Redux, TypeScript, Jest Testing, Cypress Testing, Node JS, Express, MongoDb, Cyclic, Netlify, Vercel and  DSA <br>📫 How to reach me: abhinavjoshi1798@gmail.com<br>📫 All My Projects: https://abhinavjoshi1798.github.io/
 
 
 ## 🌐 Socials:
