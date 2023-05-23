@@ -113,8 +113,7 @@
 <div align="center">    
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavjoshi1798&theme=2077" style="height: 300px"  />                                 </div>                                                                                       
                                                                                                                              
- <h2 align="left">⚡Activity Graph:</h2>
-  <img alt="Abhinav Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=abhinavjoshi1798&theme=react-dark&hide_border=truez" />    
+ 
  
  ## 🏆 GitHub Trophies
   <div > 
