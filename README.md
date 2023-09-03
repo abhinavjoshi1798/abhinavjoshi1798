@@ -121,9 +121,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=abhinavjoshi1798&theme=radical&no-frame=false&no-bg=true&margin-w=4" />  
 
 </div>
-<div>
-<img align="center" src="https://github.com/Ajay84sia/Ajay84sia/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
-<div>
+
 
 
 
