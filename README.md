@@ -1,9 +1,9 @@
  <img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
- 
-  <h2 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="#" target="_blank" rel="noopener noreferrer">Raj Rathor</a> <img src="https://i.gifer.com/CVyf.gif" width="28" >
-</h2> 
+ <p align="center"><h2 >
+ Hey there <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><span/> , I'm <a href="#" target="_blank" rel="noopener noreferrer">Abhinav Joshi</a><span> <img src="https://i.gifer.com/CVyf.gif" width="28" ></span>
+</h2></p>
+   
  
 
 <h2 align="center">A passionate full stack web developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
