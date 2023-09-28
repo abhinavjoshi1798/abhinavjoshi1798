@@ -1,7 +1,7 @@
  <img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
  
 <h1 align="center">
-  Hi there <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /></span>  I'm <a href="https://www.linkedin.com/in/abhinav-joshi-7b4308169/">Abhinav 💻</a>!
+  Hi there <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /></span>  I'm <a href="https://www.linkedin.com/in/abhinav-joshi-7b4308169/">Abhinav 💻</a>!
 </h1> 
 <h2 align="center">A passionate full stack web developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
 
