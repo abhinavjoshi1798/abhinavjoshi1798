@@ -5,7 +5,7 @@
  Hey there 
   <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><span/> 
    , I'm 
-   <a href="www.linkedin.com/in/abhinav-joshi-7b4308169">Abhinav Joshi</a>
+   <a href="#">Abhinav Joshi</a>
    <span> <img src="https://i.gifer.com/CVyf.gif" width="28" ></span>
   </h2>
   </p>
